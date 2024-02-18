@@ -32,6 +32,7 @@ public class Main {
 
         System.out.println("*****************************");
 
+
         List<Integer> integerList = List.of(10, 20, 30, 40, 50);
         int result = findElement(integerList, 30);
 
